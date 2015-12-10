@@ -37,6 +37,7 @@
     text-align: center;
 }
 .mm{
+  float: right;
   width: 700px;
   height: 800px;
   margin-left:42%
