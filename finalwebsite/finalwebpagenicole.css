@@ -1,8 +1,19 @@
+
+.cp, .calc{
+  width:500px;
+  height:500px;
+  text-align: center;
+}
+.bo, .so, .b{
+  width: 500px;
+  height: 600px;
+}
 .m, .h, .s, .f, .w, .wa, .t, .d, .c{
   width: 405px;
   height: 400px;
   text-align: center
 }
+
 #wrapper{
   margin: 5px 10px 20px 5px;
   border: 1px black double;
@@ -26,9 +37,9 @@
     text-align: center;
 }
 .mm{
-  width: 500px;
-  height: 500px;
-  margin-left:58%
+  width: 700px;
+  height: 800px;
+  margin-left:42%
 }
 .web{
   width: 200px;
