@@ -5,6 +5,10 @@
 
 }
 #left{
+  float: left;
+  width: 200px;
+  height: 500px;
+  padding: 2px;
 
 
 }
