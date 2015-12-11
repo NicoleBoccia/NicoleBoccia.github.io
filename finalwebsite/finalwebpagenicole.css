@@ -1,7 +1,11 @@
-#header2{
+
+#right a{
+  text-align: center;
 }
 #right {
-
+float: right;
+width: 100px;
+height: 500px;
 }
 #left{
   float: left;
@@ -18,7 +22,9 @@
 
 }
 
-
+#vids{
+  text-align: center;
+}
 
 .cp, .calc{
   width:500px;
@@ -26,7 +32,7 @@
   text-align: center;
 }
 .bo, .so, .b{
-  width: 400px;
+  width: 300px;
   height: 400px;
 }
 .m, .h, .s, .f, .w, .wa, .t, .d, .c{
@@ -42,6 +48,7 @@
   padding-right: 10px;
   padding-bottom: 5px;
   padding-left: 10px;
+  min-height: 1000px;
 }
 #header{
   margin: 2%;
@@ -66,8 +73,8 @@
   margin-left:42%
 }
 .web{
-  width: 200px;
-  height: 200px;
+  width: 420px;
+  height: 315px;
 
 }
 
