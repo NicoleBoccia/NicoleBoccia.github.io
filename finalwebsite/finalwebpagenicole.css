@@ -1,7 +1,11 @@
 #right{
-
+  float: right;
+  height: 400px;
+  width: 260px;
+  border: black solid;
 }
 #left{
+  float: left;
 
 }
 #footer{
