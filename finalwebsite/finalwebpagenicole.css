@@ -1,4 +1,6 @@
-
+#bottomvid{
+  text-align: center;
+}
 #right {
 float: right;
 width: 600px;
@@ -28,7 +30,7 @@ height: 500px;
   height:500px;
   text-align: center;
 }
-.bo, .so, .b{
+.bo, .so, .b, .ez{
   width: 300px;
   height: 400px;
 }
