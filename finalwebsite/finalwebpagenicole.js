@@ -17,5 +17,5 @@ document.write("<br />" + month + "/" + date + "/" + year);
 		setTimeout("document.bgColor = '99FFCC'", 5500)
 		setTimeout("document.bgColor = 'white'", 6000)
 
-    var myAlert = alert(“This is an alert! What does it equal?”);
+     alert(“This is an alert! What does it equal?”);
     console.log(myAlert);
