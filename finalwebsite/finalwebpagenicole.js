@@ -1,6 +1,7 @@
-alert(“This is an alert! What does it equal?”);
-   console.log(myAlert);
-   
+function myFunction() {
+    alert("Hello! I am an alert box!");
+}
+
 var todayDate = new Date();
 var month = todayDate.getMonth();
 var year = todayDate.getFullYear();
