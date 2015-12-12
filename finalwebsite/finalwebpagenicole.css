@@ -1,3 +1,7 @@
+.inst{
+  width: 60px;
+height: 40px;
+}
 #bottomvid{
   text-align: center;
 }
@@ -16,16 +20,24 @@ height: 500px;
   text-align: center;
   height: 50px;
   clear: both;
-
 }
 
 #vids{
   text-align: center;
 }
+.pw1{
+  float: right;
+  padding-right: 2px;
+}
+.pw2{
+  float: right;
+  padding-right: 5px;
+}
+
 
 .cp, .calc{
-  width:500px;
-  height:500px;
+  width:400px;
+  height:400px;
   text-align: center;
 }
 .bo, .so, .b, .ez{
