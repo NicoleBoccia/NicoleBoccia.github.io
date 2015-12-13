@@ -6,6 +6,7 @@ function changeText(){
 document.getElementById("para").innerHTML="Art enables us to find ourselves and lose ourselves at the same time-Thomas Merton"
 }
 
+document.write("Thank you for visiting my website today")
 var todayDate = new Date();
 var month = todayDate.getMonth();
 var year = todayDate.getFullYear();
