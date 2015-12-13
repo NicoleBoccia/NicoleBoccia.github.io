@@ -1,6 +1,3 @@
-function changeText(){
-document.getElementById("paratwo").innerHTML="This world is but a canvas to our imagination-Henry David Thoreau"
-}
 
 function changeText(){
 document.getElementById("para").innerHTML="Art enables us to find ourselves and lose ourselves at the same time-Thomas Merton"
