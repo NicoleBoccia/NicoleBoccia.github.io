@@ -10,8 +10,7 @@ var year = todayDate.getFullYear();
 var date = todayDate.getDate();
 document.write("<br />" + month + "/" + date + "/" + year);
 
-
-		setTimeout("document.bgColor='CCFFFF'", 1000)
+    setTimeout("document.bgColor='CCFFFF'", 1000)
 		setTimeout("document.bgColor='CCFFCC'", 1500)
 		setTimeout("document.bgColor = 'CCFF99'", 2000)
 		setTimeout("document.bgColor =  'CCFFCC'", 2500)
